@@ -2,8 +2,8 @@
 version: 1
 project:
   id: 7d6ef224-6a81-4360-adbe-dc24971543e9
-  # title:
-  # description:
+  # title: An example website!
+  # description: My porfolio will be ad here
   # keywords: []
   # authors: []
   github: https://github.com/abhiyudhrajput-spec/abhiyudhrajput-spec.github.io
